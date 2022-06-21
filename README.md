@@ -9,7 +9,9 @@
 
 ## Fitur WEB
 
-
+- Login
+- Create Read Update and Delete
+- Rest API
 
 ## About Laravel
 
