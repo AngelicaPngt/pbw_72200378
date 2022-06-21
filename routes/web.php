@@ -48,10 +48,6 @@ Route::post('/user/ceklogin', 'AuthController@ceklogin');
 
 Route::get('/logout', 'AuthController@logout');*/
 
-Route::get('/home', function () {
-    return view('home');
-});
-
 
 Route::group(['middleware' => ['auth']], function(){
 
