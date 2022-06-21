@@ -11,6 +11,7 @@
 
 - Login
 - Create Read Update and Delete
+- Seeder and Faker
 - Rest API
 
 ## About Laravel
